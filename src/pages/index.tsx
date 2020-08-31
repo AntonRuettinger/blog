@@ -9,7 +9,7 @@ export default function Index() {
     <Layout>
       <BasicMeta url={"/"} />
       <OpenGraphMeta url={"/"} />
-      <TwitterCardMeta url={"/"} />
+      {/* <TwitterCardMeta url={"/"} /> */}
       <div className="container">
         <div>
           <h1>
