@@ -13,10 +13,10 @@ export default function Index() {
       <div className="container">
         <div>
           <h1>
-            Hi, meine Seite ist gerade am Entstehen !<span className="fancy">.</span>
+            Hi, meine Seite ist gerade am Entstehen<span className="fancy">.</span>
           </h1>
           <span className="handle">@nextjs-netlify-blog</span>
-          <h2>Hier geht's zu meinen Blogs - ebenfalls noch under Construction.</h2>
+          <h2>Meine Blogs sind ebenfalls noch under Construction.</h2>
           <SocialList />
         </div>
       </div>
